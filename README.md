@@ -4,7 +4,8 @@
  </Tittle>
 Estoy interesado en el desarrollo web👾💻
 
-Actualmente estoy aprendiendo sobre Html y Javascript
+Actualmente estoy aprendiendo sobre desarrollo web con fundamentos en 
+Htlm, css y Javascript 
 :D
 
 Pueden <a href="mailto:ralonzo1337@gmail.com">contactarme</a>📨
