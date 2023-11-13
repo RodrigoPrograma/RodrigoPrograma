@@ -1,12 +1,13 @@
 
 <Tittle>
-<h2>Hola Soy Rodrigo</h2>
+<h2>Hola Soy Rodrigo Alonzo</h2>
  </Tittle>
 Estoy interesado en el desarrollo web👾💻
 
-Actualmente estoy aprendiendo sobre desarrollo web con fundamentos en 
-Htlm, css y Javascript 
-:D
+Desarrollo paginas web mediante Html, css y js
+ACtualmente curso:
+ - Desarrollo web con React.js
+ - Amazon web service
 
 Pueden <a href="mailto:ralonzo1337@gmail.com">contactarme</a>📨
 
