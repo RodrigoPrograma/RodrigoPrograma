@@ -7,7 +7,7 @@ Estoy interesado en el desarrollo web👾💻
 Desarrollo paginas web mediante Html, css y js
 ACtualmente curso:
  - Desarrollo web con React.js
- - Amazon web service
+ - Amazon web services
 
 Pueden <a href="mailto:ralonzo1337@gmail.com">contactarme</a>📨
 
