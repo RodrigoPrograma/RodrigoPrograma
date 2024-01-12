@@ -30,7 +30,7 @@
 
 Pueden <a href="mailto:ralonzo1337@gmail.com">contactarme</a>📨
 
-O enviarme un mensaje a <a href:"https://ar.linkedin.com/in/rodrigo-alonzo-aba6a6106">LinkedIn</a>
+O enviarme un mensaje a <a href="https://ar.linkedin.com/in/rodrigo-alonzo-aba6a6106">LinkedIn</a>
 
 <!---
 RodrigoPrograma/RodrigoPrograma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
